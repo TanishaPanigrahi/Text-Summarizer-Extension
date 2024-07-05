@@ -12,7 +12,8 @@ This Chrome extension utilizes Natural Language Processing (NLP) to summarize te
 
 1. **Setup Python Server:**
    - Clone the repository: `git clone https://github.com/GLITCH-08/TEXT-SUMMARY.git`
-   - `cd root`
+   - `mkdir root`
+   - Add all the files in the folder root
    - Run the server: `python app.py`
 
 2. **Install the Chrome Extension:**
