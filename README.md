@@ -11,7 +11,7 @@ This Chrome extension utilizes Natural Language Processing (NLP) to summarize te
 ## Getting Started
 
 1. **Setup Python Server:**
-   - Clone the repository: `git clone `
+   - Clone the repository: `git clone https://github.com/TanishaPanigrahi/Text-Summarizer-Extension.git`
    - `mkdir root`
    - Add all the files in the folder root
    - Run the server: `python app.py`
